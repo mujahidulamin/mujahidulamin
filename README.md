@@ -31,7 +31,6 @@ I am a MERN Stack Developer. I completed my graduation in Computer Science and E
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidulamin&show_icons=true&count_private=true)  
  
-![GitHub metrics](https://metrics.lecoq.io/mujahidulamin)  
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=mujahidulamin&show_icons=true&locale=en" alt="mujahidulamin"  width="420" height="300"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mujahidulamin&" alt="mujahidulamin"  width="420" height="300" /></p>  
  
