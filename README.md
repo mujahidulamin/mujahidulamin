@@ -21,7 +21,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mujahidulamin)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidulamin)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mujahidulamin&show_icons=true&locale=en&layout=compact" alt="mujahidulamin"  width="420" height="300"  /> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidulamin&show_icons=true&count_private=true)  
  
