@@ -1,4 +1,4 @@
-### Hi there 👋, I am Mujahidul Amin
+<h1 align="center">Hi 👋, I'm Amrita</h1>
 #### I love building software and working on various technologies to make an impact on real life.
 ![I love building software and working on various technologies to make an impact on real life.](https://i.ibb.co/gjKhj3s/2020-03-11-18-56-14-947.jpg)
 
