@@ -7,8 +7,6 @@
 
 I am a MERN Stack Developer. I completed my graduation in Computer Science and Engineering from Stamford University Bangladesh.  I want to build my career as a Full Stack Developer.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
 - 🌱 I’m currently learning PostgreSQL 
 - 💬 Ask me about MERN Stack Development
 - 👨‍💻 All of my projects are available at [https://mujahidulamin.netlify.app/](https://mujahidulamin.netlify.app/)
@@ -35,5 +33,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
  
 ![GitHub metrics](https://metrics.lecoq.io/mujahidulamin)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mujahidulamin)  
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api?username=mujahidulamin&show_icons=true&locale=en" alt="mujahidulamin"  width="420" height="300"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mujahidulamin&" alt="mujahidulamin"  width="420" height="300" /></p>  
  
