@@ -30,5 +30,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/mujahidulamin)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mujahidulamin)  
-
-![Profile views](https://gpvc.arturio.dev/mujahidulamin)  
+ 
