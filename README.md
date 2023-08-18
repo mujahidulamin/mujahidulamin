@@ -31,7 +31,7 @@ I am a MERN Stack Developer. I completed my graduation in Computer Science and E
 </div>
 
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mujahidulamin&show_icons=true&locale=en&layout=compact&theme=radical" alt="mujahidulamin"  width="520" height="200"  /> 
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mujahidulamin&show_icons=true&locale=en&layout=compact&theme=radical" alt="mujahidulamin"  width="520" height="300"  /> 
 
 
 ## :chart_with_upwards_trend: Current Stats
