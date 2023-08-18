@@ -10,7 +10,9 @@ I am a MERN Stack Developer. I completed my graduation in Computer Science and E
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning PostgreSQL 
-- 💬 Ask me about MERN Stack Development 
+- 💬 Ask me about MERN Stack Development
+- 👨‍💻 All of my projects are available at [https://mujahidulamin.netlify.app/](https://mujahidulamin.netlify.app/)
+- 📫 How to reach me **mujahidulamin1108152@gmail.com**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mujahidulamin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mujahidul-amin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mujahidul.amin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mujahidulamin.netlify.app/)  
