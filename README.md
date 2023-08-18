@@ -34,12 +34,7 @@ I am a MERN Stack Developer. I completed my graduation in Computer Science and E
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mujahidulamin&show_icons=true&locale=en&layout=compact" alt="mujahidulamin"  width="520" height="200"  /> 
 
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=mujahidulamin&show_icons=true&locale=en" alt="mujahidulamin"  width="420" height="300"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mujahidulamin&" alt="mujahidulamin"  width="520" height="200" /></p>  
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=mujahidulamin&show_icons=true&theme=radical" alt="mujahidulamin"  width="420" height="300"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mujahidulamin&" alt="mujahidulamin"  width="520" height="200" /></p>  
 
-## :chart_with_upwards_trend: Current Stats
 
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=mujahidulamini&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
-</p>
  
