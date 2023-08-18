@@ -36,7 +36,7 @@ I am a MERN Stack Developer. I completed my graduation in Computer Science and E
 
 ## :chart_with_upwards_trend: Current Stats
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=mujahidulamin&show_icons=true&locale=en&theme=radical" alt="amrita1295" width="520" height="200"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mujahidulamin&theme=aura&fire=EB5454" alt="mujahidulamin"  width="520" height="200" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=mujahidulamin&show_icons=true&locale=en&theme=radical" alt="amrita1295" width="520" height="200"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mujahidulamin&theme=aura&fire=EB5454" alt="mujahidulamin"  width="520" height="300" /></p>
 
 
  
