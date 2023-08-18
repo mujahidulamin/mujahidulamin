@@ -23,6 +23,12 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mujahidulamin&show_icons=true&locale=en&layout=compact" alt="mujahidulamin"  width="420" height="300"  /> 
 
+<h3 align="left">Support:</h3>
+<a href="https://www.buymeacoffee.com/money148006"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="money148006" /></a>
+
+<div align="center" > <img  src="https://user-images.githubusercontent.com/56605853/196895744-701ea3d3-2a7e-44cf-ac56-4f076530793d.gif" alt="WORK FROM HOME" width="460" height="300"/>
+</div>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidulamin&show_icons=true&count_private=true)  
  
 ![GitHub metrics](https://metrics.lecoq.io/mujahidulamin)  
