@@ -24,9 +24,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidulamin)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mujahidulamin&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mujahidulamin)  
-
+ 
 ![GitHub metrics](https://metrics.lecoq.io/mujahidulamin)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mujahidulamin)  
