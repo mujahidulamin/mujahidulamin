@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I am Mujahidul Amin</h1>
 <h3 align="center">I love building software and working on various technologies to make an impact on real life.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrita1295&label=Profile%20views&color=0e75b6&style=flat" alt="amrita1295" /> </p>
+
 ![I love building software and working on various technologies to make an impact on real life.](https://i.ibb.co/gjKhj3s/2020-03-11-18-56-14-947.jpg)
 
 I am a MERN Stack Developer. I completed my graduation in Computer Science and Engineering from Stamford University Bangladesh.  I want to build my career as a Full Stack Developer.
