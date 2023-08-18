@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Mujahidul Amin</h1>
 <h3 align="center">I love building software and working on various technologies to make an impact on real life.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amrita1295&label=Profile%20views&color=0e75b6&style=flat" alt="amrita1295" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mujahidulamin&label=Profile%20views&color=0e75b6&style=flat" alt="mujahidulamin" /> </p>
 
 ![I love building software and working on various technologies to make an impact on real life.](https://i.ibb.co/gjKhj3s/2020-03-11-18-56-14-947.jpg)
 
